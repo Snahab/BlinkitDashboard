@@ -1,7 +1,7 @@
 # BlinkitDashboard
 1.PROJECT TITLE 
 
-Blinklit Grocery Sales Analysis Dashboard | Power BI Project
+Blinkit Grocery Sales Analysis Dashboard | Power BI Project
 
 
 2.📝 PURPOSE
@@ -58,15 +58,19 @@ Visuals show how product placement (visibility) and customer ratings affect sale
 
 7.PROJECT LEARNINGS
 a) End-to-End Dashboard Development
+
 Gained hands-on experience in building a complete dashboard from raw Excel data to final polished Power BI visuals.
 
 b) Data Cleaning & Transformation
+
 Learned how to structure and refine messy or minimal datasets to make them analysis-ready within Power BI.
 
 c) Visualization Best Practices
+
 Applied effective design principles — clean layout, meaningful color schemes (Blinkit brand colors), and intuitive slicers for better user experience.
 
 d) DAX Measure Formulas
+
 Developed custom calculations like average rating, visibility impact, and segmented totals using DAX functions.
 
 e) Retail Domain Insight
