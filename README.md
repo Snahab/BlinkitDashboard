@@ -31,18 +31,23 @@ Data cleaned and processes to stimulate real world Blinkit style grocery sales d
 5.FEATURES
 
 a) Key Performance Indicators (KPIs)
+
 Clearly displayed metrics such as Total Sales, Average Rating, Total Items Sold, and Total Average Sales offer a snapshot of overall performance.
 
 b). Fat Content and Health Category Analysis
+
 Donut and bar charts compare sales revenue and item distribution across Low Fat vs Regular items, offering insight into health-conscious buying behavior across outlet tiers.
 
 c) Outlet-Based Insights
+
 Breakdowns by Outlet Type (Supermarket Type 1–4, Grocery Store), Outlet Size (Small, Medium, High), and Outlet Location Type (Tier 1, 2, 3) allow performance comparisons across store formats.
 
 d)Item Type Performance
+
 Visual hierarchy of product categories (e.g., Fruits, Snacks, Dairy, Beverages, Health products) based on revenue helps identify top-selling segments, aiding inventory and marketing strategy.
 
 e) Item Visibility & Rating Impact
+
 Visuals show how product placement (visibility) and customer ratings affect sales outcomes, enabling better product display strategies and customer satisfaction analysis.
 
 6.ANALYSIS
@@ -57,6 +62,7 @@ Visuals show how product placement (visibility) and customer ratings affect sale
 
 
 7.PROJECT LEARNINGS
+
 a) End-to-End Dashboard Development
 
 Gained hands-on experience in building a complete dashboard from raw Excel data to final polished Power BI visuals.
