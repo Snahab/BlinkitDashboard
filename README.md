@@ -4,9 +4,9 @@
 Blinkit Grocery Sales Analysis Dashboard | Power BI Project
 
 
-2.📝 PURPOSE
+2.PURPOSE
 
-This project showcases an interactive Power BI dashboard developed using a simulated dataset representing sales performance across various Blinkit grocery outlets. The goal is to derive actionable insights about product types, outlet performance, customer ratings, and visibility impact — all packaged in a visually intuitive dashboard. This project is ideal for learning retail analytics, data visualization, and dashboard design using Power BI
+This project showcases an interactive Power BI dashboard developed using a dataset representing sales performance across various Blinkit grocery outlets. The goal is to derive actionable insights about product types, outlet performance, customer ratings, and visibility impact — all packaged in a visually intuitive dashboard. This project is ideal for learning retail analytics, data visualization, and dashboard design using Power BI
 
 
 3.TECH STACK
